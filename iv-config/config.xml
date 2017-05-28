@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<imagevue>
+		<settings>
+			<startpath>pictures1/</startpath>
+			<language>chinese_simp</language>
+			<uploader>
+				<resizeDefault>false</resizeDefault>
+			</uploader>
+		</settings>
+		<textpage>
+			<sharebutton>false</sharebutton>
+		</textpage>
+		<menu>
+			<mainmenu>
+				<autohide>false</autohide>
+				<startshow>true</startshow>
+			</mainmenu>
+		</menu>
+		<misc>
+			<sharing>
+				<enabled>false</enabled>
+			</sharing>
+		</misc>
+		<mobile>
+			<jqueryMobileTheme>Dark</jqueryMobileTheme>
+		</mobile>
+	</imagevue>
+</config>
